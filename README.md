@@ -9,7 +9,7 @@
 ##### 아래는 배웠지만 지금 잘 다루진 못합니다. 그래서 더 배워가고 있습니다.
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 
-##### 기타 내용은 [이력서 및 포트폴리오 소개 Notion 페이지 링크](https://www.notion.so/25b8bea068174ec69a5367a3a1f7ff16) 에서 확인하실 수 있습니다.
+##### 기타 내용은 [이력서 및 포트폴리오 소개 Notion 페이지 링크](https://fate-thrush-832.notion.site/25b8bea068174ec69a5367a3a1f7ff16) 에서 확인하실 수 있습니다.
 
 <!--
 **zekcal/zekcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
