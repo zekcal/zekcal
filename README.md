@@ -3,7 +3,7 @@
 ##### 아래는 배우고 프로젝트에서도 사용해서 어느 정도 다룰 수 있습니다.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6FF00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
-##### 아래는 배우고 실습도 했지만 프로젝트에서는 중요하게 사용하지 않았습니다.
+##### 아래는 배웠지만 프로젝트에서는 중요하게 사용하지 않았습니다.
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
 ##### 아래는 배웠지만 지금 잘 다루진 못합니다. 그래서 더 배워가고 있습니다.
