@@ -11,6 +11,12 @@
 
 
 ##### 프로젝트에 대한 내용은 각각의 레포지토리에서 확인하실 수 있습니다.
+- 감정분석 및 데이터 분석을 진행한 [기업 협업 프로젝트](https://github.com/zekcal/AI_07_Section_6_Project_2)
+- 트위터, 판결문, 성경의 어투의 문장을 만들어주는 [어투별 문장 생성기](https://github.com/zekcal/AI_07_Section_6_Project_1)
+- 작사의 느낌을 담은 가사를 생성하는 [딥 러닝으로 작사가 실종사태 방지하기](https://github.com/zekcal/AI_07_Section_4_Project)
+- 게임의 승률 판독기를 구현한 [머신 러닝을 활용한 전략적 팀 전투 승률 계산기](https://github.com/zekcal/AI_07_Section_3_Project)
+- 머신 러닝으로 구현한 [곡 분위기로 음악 분류하기](https://github.com/zekcal/AI_07_Section_2_Project)
+- 주어진 데이터를 분석해 최적의 결과값을 도출해보는 [어떠한 게임을 만들어야 할지 분석해보기](https://github.com/zekcal/AI_07_Section_1_Project)
 
 ##### 기타 내용은 [이력서 및 포트폴리오 소개 Notion 페이지 링크](https://fate-thrush-832.notion.site/25b8bea068174ec69a5367a3a1f7ff16) 에서 확인하실 수 있습니다.
 
