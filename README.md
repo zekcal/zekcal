@@ -18,7 +18,7 @@
 - 머신 러닝으로 구현한 [곡 분위기로 음악 분류하기](https://github.com/zekcal/AI_07_Section_2_Project)
 - 주어진 데이터를 분석해 최적의 결과값을 도출해보는 [어떠한 게임을 만들어야 할지 분석해보기](https://github.com/zekcal/AI_07_Section_1_Project)
 
-##### 기타 내용은 [이력서 및 포트폴리오 소개 Notion 페이지 링크](https://fate-thrush-832.notion.site/25b8bea068174ec69a5367a3a1f7ff16) 에서 확인하실 수 있습니다.
+#### 더 많은 내용은 [이력서 및 포트폴리오 소개 Notion 페이지 링크](https://fate-thrush-832.notion.site/25b8bea068174ec69a5367a3a1f7ff16) 에서 확인하실 수 있습니다.
 
 <!--
 **zekcal/zekcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
