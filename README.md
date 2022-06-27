@@ -11,7 +11,7 @@
 
 ##### 프로젝트에 대한 내용은 각각의 레포지토리에서 확인하실 수 있습니다.
 - 감정분석 및 데이터 분석을 진행한 [기업 협업 프로젝트](https://github.com/zekcal/Emotion_Analysis_and_YouTube_Data_Analysis)
-- 트위터, 판결문, 성경의 어투의 문장을 만들어주는 [어투별 문장 생성기](https://github.com/zekcal/Meme_Style_Sentence_Generater)
+- 밈의 어투를 가진 트위터, 판결문, 성경스러운 문장을 만들어주는 [어투별 문장 생성기](https://github.com/zekcal/Meme_Style_Sentence_Generater)
 - 작사의 느낌을 담은 가사를 생성하는 [딥 러닝으로 작사가 실종사태 방지하기](https://github.com/zekcal/Lyric_Generator)
 - 게임의 승률 판독기를 구현한 [머신 러닝을 활용한 전략적 팀 전투 승률 계산기](https://github.com/zekcal/TFT_Winning_Rate_Calculator)
 - 머신 러닝으로 구현한 [곡 분위기로 음악 분류하기](https://github.com/zekcal/Classifying_Music_Genres_By_Mood)
